@@ -8,3 +8,13 @@ codic APIを使ったプラグインを開発・公開するためのgithub org.
 -------
 
 codic-project への参加は自由ですので、team@codic.jpまでGithubアカウントをお伝えください。
+
+
+#### Discussion
+-------
+
+特定のプラグインに関係しないディスカッションについては、READMEプロジェクトのIssueでやりましょう。
+
+- 方針やルール
+- レポジトリの統合
+
